@@ -131,7 +131,7 @@
         android:layout_height="wrap_content"
         android:textStyle="bold"
         android:textSize="20dp"
-        android:text="sIGN uP usAMA zIA"
+        android:text="Sign Up"
         android:textColor="@color/colorPr"
         android:background="@drawable/btn"/>
 
